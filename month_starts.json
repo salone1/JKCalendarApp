@@ -1,8 +1,42 @@
 {
-  "1447": {
-   "Ramadan": "2026-02-20"
+  "version": "1.0",
+  "hijri_year": 1447,
+  "description": "JK Islamic Corrections 1447 AH - Moon Sighting Only",
+  "corrections": [
+    {
+      "month": "Rajab",
+      "days": 30,
+      "gregorian_start": "2026-05-24",
+      "correction_date": "2026-05-24",
+      "source": "Moon sighting confirmed",
+      "previous_pattern": "30"
+    },
+    {
+      "month": "Sha'ban", 
+      "days": 29,
+      "gregorian_start": "2026-01-21",
+      "correction_date": "2026-01-21",
+      "source": "Moon sighting",
+      "previous_pattern": "30"
+    },
+    {
+      "month": "Ramadan",
+      "days": 30,
+      "gregorian_start": "2026-02-19", 
+      "correction_date": "2026-02-19",
+      "source": "Moon sighting",
+      "previous_pattern": "29"
+    }
+  ],
+  "rules": {
+    "patterns": {
+      "after_29": [30, 29, 30],
+      "after_30": [29, 30, 29]
+    },
+    "auto_calculate": true,
+    "no_31_days": true,
+    "no_28_days": true
   },
-  "1448": {
-
-  }
+  "last_updated": "2026-01-15",
+  "status": "Rajab confirmed 30 days"
 }
