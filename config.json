@@ -19,9 +19,15 @@
   ],
   "islamicOverrides": [
     {
-      "gregorianDate": "2026-03-22",
+      "gregorianDate": "2026-03-21",
       "hijriYear": 1447,
       "hijriMonth": 10,
+      "hijriDay": 1
+    },
+    {
+      "gregorianDate": "2026-04-20",
+      "hijriYear": 1447,
+      "hijriMonth": 11,
       "hijriDay": 1
     }
   ],
