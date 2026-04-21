@@ -18,6 +18,24 @@
     }
   ],
   "islamicOverrides": [
+        {
+      "gregorianDate": "2025-12-22",
+      "hijriYear": 1447,
+      "hijriMonth": 07,
+      "hijriDay": 1
+    },
+    {
+      "gregorianDate": "2026-01-21",
+      "hijriYear": 1447,
+      "hijriMonth": 08,
+      "hijriDay": 1
+    },
+    {
+      "gregorianDate": "2026-02-19",
+      "hijriYear": 1447,
+      "hijriMonth": 09,
+      "hijriDay": 1
+    },
     {
       "gregorianDate": "2026-03-21",
       "hijriYear": 1447,
@@ -25,7 +43,7 @@
       "hijriDay": 1
     },
     {
-      "gregorianDate": "2026-04-20",
+      "gregorianDate": "2026-04-19",
       "hijriYear": 1447,
       "hijriMonth": 11,
       "hijriDay": 1
