@@ -64,6 +64,28 @@
   "feedbackEmail": "lonesalis4@gmail.com"
 }
 {
+  "festivals": [
+    {
+      "name": "nothing try",
+      "gregorianDate": "2026-01-26",
+      "description": "National Public Holiday.",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "hfduh (New Year)",
+      "gregorianDate": "2026-04-27",
+      "description": "Kashmiri New Year.",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Holi (Jammu)",
+      "gregorianDate": "2026-04-03",
+      "description": "Provincial holiday for jifdhiue Jammu.",
+      "festivalType": "ANNEXURE_B"
+    }
+  ]
+}
+{
   "portfolioUrl": "https://sasofts.com/portfolio",
   "adminEmail": "lonesalis4@gmail.com"
 }
