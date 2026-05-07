@@ -66,25 +66,297 @@
 {
   "festivals": [
     {
-      "name": "nothing try",
+      "name": "Guru Gobind Singh Ji's Birthday",
+      "gregorianDate": "2026-01-05",
+      "description": "Observed across Jammu & Kashmir.",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Shab-I-Miraj",
+      "hijriDate": "1447-07-26",
+      "description": "Prophet Muhammad’s night journey (subject to moon sighting).",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Republic Day",
       "gregorianDate": "2026-01-26",
-      "description": "National Public Holiday.",
+      "description": "National holiday celebrated throughout India.",
       "festivalType": "ANNEXURE_A"
     },
     {
-      "name": "hfduh (New Year)",
-      "gregorianDate": "2026-04-27",
-      "description": "Kashmiri New Year.",
+      "name": "Mahashivratri",
+      "gregorianDate": "2026-02-15",
+      "description": "Hindu festival dedicated to Lord Shiva.",
       "festivalType": "ANNEXURE_A"
     },
     {
-      "name": "Holi (Jammu)",
+      "name": "Shab-I-Qadr",
+      "hijriDate": "1447-09-27",
+      "description": "Night of Power during Ramadan (subject to moon sighting).",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "1st Navratra",
+      "gregorianDate": "2026-03-19",
+      "description": "Beginning of Navratri festival.",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Jumat-ul-Vida",
+      "hijriDate": "1447-09-30",
+      "description": "Last Friday of Ramadan (subject to moon sighting).",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Nauroz",
+      "gregorianDate": "2026-03-21",
+      "description": "Persian New Year celebrated in Kashmir.",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Eid-ul-Fitr",
+      "hijriDate": "1447-10-01",
+      "description": "Festival marking the end of Ramadan (subject to moon sighting).",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Ramanavami",
+      "gregorianDate": "2026-03-26",
+      "description": "Hindu festival celebrating Lord Rama’s birth.",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Baisakhi",
+      "gregorianDate": "2026-04-14",
+      "description": "Harvest festival celebrated in North India.",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Birthday of Dr. B.R. Ambedkar",
+      "gregorianDate": "2026-04-14",
+      "description": "Commemorates the birth of Dr. B.R. Ambedkar.",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Buddha Purnima",
+      "gregorianDate": "2026-05-01",
+      "description": "Celebrates the birth of Lord Buddha.",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Eid-ul-Azha",
+      "hijriDate": "1447-12-10",
+      "description": "Festival of Sacrifice (subject to moon sighting).",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Ashoora",
+      "hijriDate": "1448-01-10",
+      "description": "Day of mourning for Imam Hussain (subject to moon sighting).",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Guru Hargobind Ji's Birthday",
+      "gregorianDate": "2026-07-05",
+      "description": "Sikh festival honoring Guru Hargobind Ji.",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Independence Day",
+      "gregorianDate": "2026-08-15",
+      "description": "National holiday celebrating India’s independence.",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Eid-i-Milad-ul-Nabi",
+      "hijriDate": "1448-03-12",
+      "description": "Celebration of Prophet Muhammad’s birth (subject to moon sighting).",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Friday following Eid-i-Milad-ul-Nabi",
+      "hijriDate": "1448-03-14",
+      "description": "Continuation of Eid-i-Milad-ul-Nabi observance (subject to moon sighting).",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Janamashtami",
+      "gregorianDate": "2026-09-04",
+      "description": "Hindu festival celebrating Lord Krishna’s birth.",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Birthday of Maharaja Hari Singh Ji",
+      "gregorianDate": "2026-09-23",
+      "description": "Commemorates Maharaja Hari Singh Ji’s birth.",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Mahatma Gandhi's Birthday",
+      "gregorianDate": "2026-10-02",
+      "description": "National holiday honoring Mahatma Gandhi.",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Mahanavami",
+      "gregorianDate": "2026-10-20",
+      "description": "Hindu festival marking the ninth day of Navratri.",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Dussehra",
+      "gregorianDate": "2026-10-20",
+      "description": "Hindu festival celebrating victory of good over evil.",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Accession Day",
+      "gregorianDate": "2026-10-26",
+      "description": "Marks J&K’s accession to India.",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Diwali",
+      "gregorianDate": "2026-11-08",
+      "description": "Festival of lights celebrated across India.",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Guru Nanak Dev Ji's Birthday",
+      "gregorianDate": "2026-11-24",
+      "description": "Sikh festival honoring Guru Nanak Dev Ji.",
+      "festivalType": "ANNEXURE_A"
+    },
+    {
+      "name": "Christmas Day",
+      "gregorianDate": "2026-12-25",
+      "description": "Christian festival celebrating the birth of Jesus Christ.",
+      "festivalType": "ANNEXURE_A"
+    },
+
+    // Annexure-B: Provincial Holidays (Kashmir)
+    {
+      "name": "Friday following Shab-i-Miraj",
+      "hijriDate": "1447-07-30",
+      "description": "Muslim holiday following Shab-i-Miraj (subject to moon sighting).",
+      "festivalType": "ANNEXURE_B"
+    },
+    {
+      "name": "Urs Shah-i-Hamdan Sahib",
+      "hijriDate": "1447-11-25",
+      "description": "Commemoration of Shah-i-Hamdan (subject to moon sighting).",
+      "festivalType": "ANNEXURE_B"
+    },
+    {
+      "name": "Mela Khir Bhawani",
+      "gregorianDate": "2026-06-22",
+      "description": "Festival at Khir Bhawani temple in Kashmir.",
+      "festivalType": "ANNEXURE_B"
+    },
+    {
+      "name": "Urs Sheikh Noor-ud-Din Sahib",
+      "hijriDate": "1448-02-15",
+      "description": "Commemoration of Sheikh Noor-ud-Din (subject to moon sighting).",
+      "festivalType": "ANNEXURE_B"
+    },
+    // Annexure-B: Provincial Holidays (Jammu)
+        {
+      "name": "Lohri",
+      "gregorianDate": "2026-01-13",
+      "description": "Popular harvest festival in Jammu.",
+      "festivalType": "ANNEXURE_B"
+    },
+    {
+      "name": "Shri Guru Ravi Das's Birthday",
+      "gregorianDate": "2026-02-01",
+      "description": "Commemoration of Guru Ravi Das.",
+      "festivalType": "ANNEXURE_B"
+    },
+    {
+      "name": "Holi",
+      "gregorianDate": "2026-03-04",
+      "description": "Festival of colors celebrated in Jammu.",
+      "festivalType": "ANNEXURE_B"
+    },
+
+    // Annexure-B: Local Holidays
+    {
+      "name": "Mela Bahu Fort",
+      "gregorianDate": "2026-03-26",
+      "description": "Local fair in Jammu District only.",
+      "festivalType": "ANNEXURE_B"
+    },
+    {
+      "name": "Mahavir Jayanti",
+      "gregorianDate": "2026-03-31",
+      "description": "Observed in Jammu District only.",
+      "festivalType": "ANNEXURE_B"
+    },
+    {
+      "name": "Good Friday",
       "gregorianDate": "2026-04-03",
-      "description": "Provincial holiday for jifdhiue Jammu.",
+      "description": "Christian observance in Jammu District only.",
+      "festivalType": "ANNEXURE_B"
+    },
+    {
+      "name": "Urs Shah Farid-ud-Din Sahib",
+      "hijriDate": "1447-11-04",
+      "description": "Commemoration in Kishtwar District only (subject to moon sighting).",
+      "festivalType": "ANNEXURE_B"
+    },
+    {
+      "name": "Sarthal Devi Ji Yatra",
+      "gregorianDate": "2026-07-21",
+      "description": "Local yatra in Kishtwar District only (continues 22 July).",
+      "festivalType": "ANNEXURE_B"
+    },
+    {
+      "name": "Kailash Yatra",
+      "gregorianDate": "2026-09-09",
+      "description": "Local yatra in Bhaderwah and Bhalla (continues 10 September).",
+      "festivalType": "ANNEXURE_B"
+    },
+    {
+      "name": "Mela Pat",
+      "gregorianDate": "2026-09-18",
+      "description": "Local fair in Bhaderwah and Bhalla (continues 19 September).",
+      "festivalType": "ANNEXURE_B"
+    },
+    {
+      "name": "Urs Shah Asrar-ud-Din Sahib",
+      "hijriDate": "1448-04-20",
+      "description": "Commemoration in Kishtwar, Doda, Ramban Districts only (subject to moon sighting).",
+      "festivalType": "ANNEXURE_B"
+    },
+
+    // Annexure-B: Restricted Holidays
+    {
+      "name": "Parshuram Jayanti",
+      "gregorianDate": "2026-04-19",
+      "description": "Observed in Jammu Province only.",
+      "festivalType": "ANNEXURE_B"
+    },
+    {
+      "name": "Martyr's Day of Guru Arjun Dev Ji",
+      "gregorianDate": "2026-06-16",
+      "description": "Commemoration of Guru Arjun Dev Ji.",
+      "festivalType": "ANNEXURE_B"
+    },
+    {
+      "name": "Kabir Jayanti",
+      "gregorianDate": "2026-06-29",
+      "description": "Observed in Jammu Province only.",
+      "festivalType": "ANNEXURE_B"
+    },
+    {
+      "name": "Raksha Bandhan",
+      "gregorianDate": "2026-08-28",
+      "description": "Hindu festival celebrating sibling bonds.",
       "festivalType": "ANNEXURE_B"
     }
   ]
 }
+
 {
   "portfolioUrl": "https://sasofts.com/portfolio",
   "adminEmail": "lonesalis4@gmail.com"
