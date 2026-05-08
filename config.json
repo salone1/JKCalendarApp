@@ -5,6 +5,13 @@
     "startDate": "2026-01-01",
     "endDate": "2026-01-15"
   },
+  {
+  "lastUpdated": "2026-05-08T10:00:00",
+  "adminMessage": {
+    "message": "we got an update about the some holidays not shown, we regret for inconvenance we are working on it,stay tuned with us team sana softs ",
+    "startDate": "2026-05-08",
+    "endDate": "2026-05-12"
+  },
   "greetings": [
     {
       "title": "Navareh Mubarak!",
@@ -15,11 +22,6 @@
       "title": "Eid Mubarak!",
       "text": "May this Eid bring peace, happiness, and prosperity to our valley.",
       "date": "2026-04-21"
-    },
-      {
-      "title": "Holidays issue alert",
-      "text": "we got update about the holiays that some holidays are not shown we regret for the inconvence caused, we are working on it to resolve it as soon aas possible,stay tuned with us team sana softs.",
-      "date": "2026-05-08"
     }
   ],
   "islamicOverrides": [
