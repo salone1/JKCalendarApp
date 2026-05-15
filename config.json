@@ -1,8 +1,8 @@
 {
   "lastUpdated": "2026-05-08T10:00:00",
   "adminMessage": {
-    "message": "We got update regarding some holidays not shown in app, We regret for your inconvenance and working to resolve the issue as soon as possible. stay tuned with us Tean SANA Softs.",
-    "startDate": "2026-01-08",
+    "message": "Welcome to Koshur HIjri Calendar. Regards Team SANA Softs.",
+    "startDate": "2026-01-01",
     "endDate": "2026-01-13"
   },
   "greetings": [
@@ -70,6 +70,6 @@
 }
 
 {
-  "portfolioUrl": "https://sasofts.com/portfolio",
+  "portfolioUrl": "https://salone1.github.io/Portfolio/",
   "adminEmail": "lonesalis4@gmail.com"
 }
