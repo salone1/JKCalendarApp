@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-05-08T10:00:00",
+  "lastUpdated": "2026-06-19T18:00:00",
   "adminMessage": {
-    "message": "The 1 Dhul Hijah is On 18 May and data is updated accordingly confirmed by Grand Mufti JK and Anjuman Shian Sharia, for evidencs you can mail us at feedback page. Regards Team SANA Softs.",
-    "startDate": "2026-05-18",
-    "endDate": "2026-05-20"
+    "message": "The 1 Muharam 1448 is on 17 june. By local moon sightining. Regards Team SANA Softs.",
+    "startDate": "2026-06-17",
+    "endDate": "2026-06-20"
   },
   "greetings": [
     {
@@ -20,6 +20,11 @@
       "title": "Eid Mubarak!",
       "text": "May this Eid bring peace, happiness, and prosperity to our valley.",
       "date": "2026-05-26"
+    },
+    {
+      "title": "Check",
+      "text": "this notification is just to check the funtion of our notification system. sorry for incovinance.",
+      "date": "2026-06-19"
     }
   ],
   "islamicOverrides": [
@@ -59,14 +64,12 @@
       "hijriMonth": 12,
       "hijriDay": 1
     },
-    
     {
       "gregorianDate": "2026-06-17",
       "hijriYear": 1448,
       "hijriMonth": 1,
       "hijriDay": 1
     }
-
   ],
   "knownMonthLengths": {
     "1447-9": 30
@@ -82,6 +85,6 @@
 }
 
 {
-  "portfolioUrl": "https://salone1.github.io/Portfolio/",
+  "portfolioUrl": "https://sanasofta.salone.workkers.dev/",
   "adminEmail": "lonesalis4@gmail.com"
 }
