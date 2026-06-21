@@ -1,1 +1,47 @@
-{ "lastUpdated": "2026-06-19T18:00:00", "adminMessage": { "message": "The 1 Muharam 1448 is on 17 june. By local moon sightining. Regards Team SANA Softs.", "startDate": "2026-06-17", "endDate": "2026-06-20" }, "greetings": [ { "title": "Navareh Mubarak!", "text": "Wishing a very happy and prosperous Kashmiri New Year to everyone.", "date": "2026-03-30" }, { "title": "Eid Mubarak!", "text": "May this Eid bring peace, happiness, and prosperity to our valley.", "date": "2026-04-21" }, { "title": "Eid Mubarak!", "text": "May this Eid bring peace, happiness, and prosperity to our valley.", "date": "2026-05-26" }, { "title": "Check", "text": "this notification is just to check the function of our notification system. sorry for inconvenience.", "date": "2026-06-19" } ], "islamicOverrides": [ { "gregorianDate": "2025-12-22", "hijriYear": 1447, "hijriMonth": 7, "hijriDay": 1 }, { "gregorianDate": "2026-01-21", "hijriYear": 1447, "hijriMonth": 8, "hijriDay": 1 }, { "gregorianDate": "2026-02-19", "hijriYear": 1447, "hijriMonth": 9, "hijriDay": 1 }, { "gregorianDate": "2026-03-21", "hijriYear": 1447, "hijriMonth": 10, "hijriDay": 1 }, { "gregorianDate": "2026-04-19", "hijriYear": 1447, "hijriMonth": 11, "hijriDay": 1 }, { "gregorianDate": "2026-05-18", "hijriYear": 1447, "hijriMonth": 12, "hijriDay": 1 }, { "gregorianDate": "2026-06-17", "hijriYear": 1448, "hijriMonth": 1, "hijriDay": 1 } ], "knownMonthLengths": { "1447-9": 30 }, "festivals": [], "portfolioUrl": "https://sanasofts.salone.workers.dev", "adminEmail": "lonesalis4@gmail.com", "donateUrl": "upi://pay?pa=salisaminlone@upi&pn=Salis%20Amin%20Lone&cu=INR&mode=02&purpose=00&orgid=189999&sign=3B/VJ+b8JlgVCML80MI3shmqTz2hmBNuBzYGD85wpO2ctPxP7JTPBBAUQDFus8wMOwMezaJ/UZoi3yFZze1rtUOcDMv9+h4K+MMLnI1Ivp4eat9vpWMUcBrO/pLsJMXIfO7Sy1ijz/r4tvKwxIoOA7JjwYqrIY5F+dbIIggyEak=", "feedbackEmail": "lonesalis4@gmail.com" }
+{
+  "lastUpdated": "2026-06-19T18:00:00",
+  "adminMessage": {
+    "message": "The 1 Muharam 1448 is on 17 june. By local moon sightining. Regards Team SANA Softs.",
+    "startDate": "2026-06-17",
+    "endDate": "2026-06-20"
+  },
+  "greetings": [
+    {
+      "title": "Navareh Mubarak!",
+      "text": "Wishing a very happy and prosperous Kashmiri New Year to everyone.",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "Eid Mubarak!",
+      "text": "May this Eid bring peace, happiness, and prosperity to our valley.",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "Eid Mubarak!",
+      "text": "May this Eid bring peace, happiness, and prosperity to our valley.",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "Check",
+      "text": "this notification is just to check the function of our notification system. sorry for inconvenience.",
+      "date": "2026-06-19"
+    }
+  ],
+  "islamicOverrides": [
+    { "gregorianDate": "2025-12-22", "hijriYear": 1447, "hijriMonth": 7, "hijriDay": 1 },
+    { "gregorianDate": "2026-01-21", "hijriYear": 1447, "hijriMonth": 8, "hijriDay": 1 },
+    { "gregorianDate": "2026-02-19", "hijriYear": 1447, "hijriMonth": 9, "hijriDay": 1 },
+    { "gregorianDate": "2026-03-21", "hijriYear": 1447, "hijriMonth": 10, "hijriDay": 1 },
+    { "gregorianDate": "2026-04-19", "hijriYear": 1447, "hijriMonth": 11, "hijriDay": 1 },
+    { "gregorianDate": "2026-05-18", "hijriYear": 1447, "hijriMonth": 12, "hijriDay": 1 },
+    { "gregorianDate": "2026-06-17", "hijriYear": 1448, "hijriMonth": 1, "hijriDay": 1 }
+  ],
+  "knownMonthLengths": {
+    "1447-9": 30
+  },
+  "festivals": [],
+  "portfolioUrl": "https://sanasofts.salone.workers.dev",
+  "adminEmail": "lonesalis4@gmail.com",
+  "donateUrl": "upi://pay?pa=salisaminlone@upi&pn=Salis%20Amin%20Lone&cu=INR&mode=02&purpose=00&orgid=189999&sign=3B/VJ+b8JlgVCML80MI3shmqTz2hmBNuBzYGD85wpO2ctPxP7JTPBBAUQDFus8wMOwMezaJ/UZoi3yFZze1rtUOcDMv9+h4K+MMLnI1Ivp4eat9vpWMUcBrO/pLsJMXIfO7Sy1ijz/r4tvKwxIoOA7JjwYqrIY5F+dbIIggyEak=",
+  "feedbackEmail": "lonesalis4@gmail.com"
+}
