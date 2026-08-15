@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-17T20:53:00",
+  "lastUpdated": "2026-08-14T20:53:00",
   "adminMessage": {
-    "message": "The 1 Safar 1448 is on 16 july. By local moon sightining. Regards Team SANA Softs.",
-    "startDate": "2026-07-17",
-    "endDate": "2026-07-21"
+    "message": "The 1 Rabul Awal 1448 is on 15 August. By local moon sightining. Regards Team SANA Softs.",
+    "startDate": "2026-08-15",
+    "endDate": "2026-08-18"
   },
   "greetings": [
     {
@@ -25,6 +25,11 @@
       "title": "Check",
       "text": "This notification is just to check the function of our notification system. Sorry for inconvenience.",
       "date": "2026-07-17"
+    },
+      {
+      "title": "Eid MIlad Un Nabi",
+      "text": "Eid Milad Un Nabi Mubarak Baad to all ummah, regards Team SANA SOfts.",
+      "date": "2026-08-26"
     }
   ],
   "islamicOverrides": [
@@ -35,7 +40,8 @@
     { "gregorianDate": "2026-04-19", "hijriYear": 1447, "hijriMonth": 11, "hijriDay": 1 },
     { "gregorianDate": "2026-05-18", "hijriYear": 1447, "hijriMonth": 12, "hijriDay": 1 },
     { "gregorianDate": "2026-06-17", "hijriYear": 1448, "hijriMonth": 1, "hijriDay": 1 },
-    { "gregorianDate": "2026-07-16", "hijriYear": 1448, "hijriMonth": 2, "hijriDay": 1 }
+    { "gregorianDate": "2026-07-16", "hijriYear": 1448, "hijriMonth": 2, "hijriDay": 1 },
+    { "gregorianDate": "2026-08-15", "hijriYear": 1448, "hijriMonth": 3, "hijriDay": 1 }
   ],
   "knownMonthLengths": {
     "1447-9": 30
